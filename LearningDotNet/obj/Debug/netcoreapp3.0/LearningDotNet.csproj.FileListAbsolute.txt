@@ -1,0 +1,13 @@
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\bin\Debug\netcoreapp3.0\LearningDotNet.exe
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\bin\Debug\netcoreapp3.0\LearningDotNet.deps.json
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\bin\Debug\netcoreapp3.0\LearningDotNet.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\bin\Debug\netcoreapp3.0\LearningDotNet.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\bin\Debug\netcoreapp3.0\LearningDotNet.dll
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\bin\Debug\netcoreapp3.0\LearningDotNet.pdb
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\obj\Debug\netcoreapp3.0\LearningDotNet.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\obj\Debug\netcoreapp3.0\LearningDotNet.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\obj\Debug\netcoreapp3.0\LearningDotNet.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\obj\Debug\netcoreapp3.0\LearningDotNet.dll
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\obj\Debug\netcoreapp3.0\LearningDotNet.pdb
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\bin\Debug\netcoreapp3.0\nunit.framework.dll
+C:\Users\Jason\source\repos\LearningDotNet\LearningDotNet\obj\Debug\netcoreapp3.0\LearningDotNet.csproj.CopyComplete
